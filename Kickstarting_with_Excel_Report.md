@@ -19,7 +19,7 @@ A column was added to calculate **percentage funded**, using the formula: '=ROUN
 
 ### Analysis of Outcomes Based on Launch Date
 
-Starting and ending dates of each campaign was provided.  The dates for the theater campaigns were graphed based on the starting month of the campaign to look for trends.  The [Graph of Theater Launch Dates] (https://github.com/sdivakarla/Kickstarter-analysis/blob/main/Theater_Outcome_VS_Launch.png) shows distinctive trends in the success of the campaigns.  Those campaigns started in April through July had a much higher success rate than those campaigns started in September through December. 
+Starting and ending dates of each campaign was provided.  The dates for the theater campaigns were graphed based on the starting month of the campaign to look for trends.  The ![Graph of Theater Launch Dates] (https://github.com/sdivakarla/Kickstarter-analysis/blob/main/Theater_Outcome_VS_Launch.png) shows distinctive trends in the success of the campaigns.  Those campaigns started in April through July had a much higher success rate than those campaigns started in September through December. 
 
 
 
