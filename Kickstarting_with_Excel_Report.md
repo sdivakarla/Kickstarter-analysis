@@ -21,7 +21,7 @@ A column was added to calculate **percentage funded**, using the formula: '=ROUN
 
 Starting and ending dates of each campaign was provided.  The dates for the theater campaigns were graphed based on the starting month of the campaign to look for trends.  The graph shows distinctive trends in the success of the campaigns.  Those campaigns started in April through July had a much higher success rate than those campaigns started in September through December. 
 
-![Outcome_vs_Launch_Date](https://user-images.githubusercontent.com/98054953/156896828-d47a03d7-1fce-45af-8859-eac2c617f0d4.png)
+![Outcome_vs_Launch](https://user-images.githubusercontent.com/98054953/156898860-ca4f18f2-32be-4753-aa89-0c23aedd6552.png)
 
 
 
@@ -32,7 +32,7 @@ Starting and ending dates of each campaign was provided.  The dates for the thea
 
 To determine if the amount of support requested in the campagin affected the outcome, the succes was evaluated against the stated goal.  For campaigns with a goal of less than $15,000, more campaigns were successfull than unsucessful.  The lower valued campaigns were more successfull and the success rate decreased as the value of the goal increased. 
 
-![OutcomeBasedOnGoals](https://user-images.githubusercontent.com/98054953/156897170-8a31c85e-ca19-4938-a80b-77456faede66.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/98054953/156898832-7083c62b-ec42-4024-9feb-e10444bb1fac.png)
 
 It is important to keep in mind the number of campaigns in each category when evaluating the success.  There are many more campaigns with goals of less than $15,000 (661 of the 688 campaigns evaluated).  At the higher campaign values, one or two campaigns that fail can skew the data. The table below shows the goal for each campaign and the number that were successful, failed or canceled.  
 
